@@ -1,0 +1,31 @@
+三角関数の加法定理(sin,cos,tan)
+sin(α+β) = sinαcosβ + cosαsinβ
+cos(α+β) = cosαcosβ - sinαsinβ
+sin(α-β) = sinαcosβ - cosαsinβ 
+cos(α-β) = cosαcosβ + sinαsinβ
+tan(α+β) = (tanα + tanβ) / (1 - tanαtanβ)
+tan(α-β) = (tanβ - tanα) / (1 + tanαtanβ)
+倍角の公式
+sin2α = 2sinαcosα
+cos2α = cos^2(α) + sin^2(α)
+tan2α = 2tanα / (1 - tan^2(α) )
+3倍角の公式
+sin3α = 3sinα - 4sin^3(α)
+cos3α = 4cos^3(α) - 3cos(α)
+tan3α = (3tanα - tan^3(α)) / (1 - 3tan^2(α))
+半角の公式
+sin^2(α) = (1-cos2α) / 2
+cos^2(α) = (1+cos2α) / 2
+tan^2(α) = (1-cos2α) / (1+cos2α)
+積→和の公式
+sinαcosβ = (sin(α+β) + sin(α-β)) / 2
+cosαsinβ = (sin(α+β) - sin(α-β)) / 2
+cosαcosβ = (cos(α+β) + cos(α-β)) / 2
+sinαsinβ = (cos(α+β) - cos(α-β)) / 2
+和→積の公式
+sinA + sinB = 2sin((A+B)/2)cos((A-B)/2)
+sinA - sinB = 2cos((A+B)/2)sin((A-B)/2)
+cosA + cosB = 2cos((A+B)/2)cos((A-B)/2)
+cosA - cosB = 2sin((A+B)/2)sin((A-B)/2)
+三角関数の合成
+asinΘ + bcosΘ = √(a^2 + b^2)sin(Θ+α)
