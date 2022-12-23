@@ -1,6 +1,6 @@
 # AdrvancedNumericalAnalysis
 
-## 課題をフォルダごとに整理している
+課題をフォルダごとに整理している
 
 - 分類
   - kadai1.py -> 11_28
