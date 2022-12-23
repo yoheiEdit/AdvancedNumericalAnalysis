@@ -1,6 +1,6 @@
 # AdrvancedNumericalAnalysis
 
-##課題をフォルダごとに整理している
+## 課題をフォルダごとに整理している
 
 kadai1.py -> 11_28
 kadai3.py -> 12_05
