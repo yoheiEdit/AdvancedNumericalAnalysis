@@ -1,8 +1,8 @@
 # AdrvancedNumericalAnalysis
 
-課題をフォルダごとに整理している
+課題
 
-- 分類
+- folder
   - 11_28 : kadai1.py
   - 12_05 : kadai3.py
   - 12_12 : kadai3-1.py ~
