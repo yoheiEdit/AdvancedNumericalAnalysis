@@ -1,4 +1,4 @@
-# AdrvancedNumericalAnalysis
+# 数値解析特論
 
 課題
 
