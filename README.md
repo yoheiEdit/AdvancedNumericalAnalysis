@@ -10,10 +10,10 @@
 
 - プログラムの課題の説明
   - 12_12フォルダ
-    kadai3-1.py : 課題1
-    kadai3-2.py : 課題2
-    kadai3-3_sin.py : 課題3
-    kadai3-4_cos.py : 課題4
-    3_5.py : 課題5
+    - kadai3-1.py : 課題1
+    - kadai3-2.py : 課題2
+    - kadai3-3_sin.py : 課題3
+    - kadai3-4_cos.py : 課題4
+    - 3_5.py : 課題5
 
   - 他のフォルダに含まれているpythonファイルは授業資料に掲載されていた課題を作成したものである
