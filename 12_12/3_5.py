@@ -17,11 +17,11 @@ ax.set_ylim(0,20)
 
 img =[]
 
-# a**x
+# 関数func : a**x
 def func(a,x):
     return a ** x
 
-# a ** x * log(a)
+# 関数funcを微分したもの : a ** x * log(a)
 def newderivative(a,x):
     return a ** x * math.log(a)
 
